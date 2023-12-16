@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **my skills**
 
-- 🌱 I’m currently learning **Everything i can. I'm in a full stack bootcamp at F5**
+- 🌱 I’m currently learning **everything i can. I'm in a full stack Bootcamp at F5**
 
-- 📫 How to reach me **isiahzacarias@gmail.com**
+- 📫 How to reach me: **isiahzacarias@gmail.com**
 
-- ⚡ Fun fact **I am a programming enthusiast and this year has become the beginning of a long journey**
+- ⚡ Fun fact **i am a programming enthusiast and this year has become the beginning of a long journey**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
