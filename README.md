@@ -11,7 +11,7 @@ Embark on this journey with me and be a part of my continuous growth as I transf
 
 ## Connect with me
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/isiahzac/)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg =26x26)](https://www.linkedin.com/in/isiahzac/)
 [![Instagram](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCbG9jayBcMTYgICAgaGVpZ2h0PVwiMTZcIiBmaWxsPVwiI2UxMzA2Y1wiLz4=)](https://www.instagram.com/1s1ahzac/)
 
 
