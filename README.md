@@ -11,8 +11,8 @@ Embark on this journey with me and be a part of my continuous growth as I transf
 
 ## Connect with me
 
-[![LinkedIn](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCbG9jay0="16" height="16" fill="#0077cc"/></svg>)([https://www.linkedin.com/in/isiahzac/])
-[![Instagram](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCbG9jay0="16" height="16" fill="#e1306c"/></svg>)([https://www.instagram.com/1s1ahzac/])
+[![LinkedIn](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCbG9jayBcMTYgICAgaGVpZ2h0PVwiMTZcIiBmaWxsPVwiIzAwNzdjY1wiLz4=)](https://www.linkedin.com/in/isiahzac/)
+[![Instagram](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCbG9jayBcMTYgICAgaGVpZ2h0PVwiMTZcIiBmaWxsPVwiI2UxMzA2Y1wiLz4=)](https://www.instagram.com/1s1ahzac/)
 
 
 ## Languages and Tools
