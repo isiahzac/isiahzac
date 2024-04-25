@@ -12,10 +12,10 @@ Embark on this journey with me and be a part of my continuous growth as I transf
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/isiahzac/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn style="padding-right:10px;">
 </a>
 <a href="https://www.instagram.com/1s1ahzac/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram style="padding-right:10px;">
 </a>
 
 
