@@ -12,11 +12,8 @@ Embark on this journey with me and be a part of my continuous growth as I transf
 ## Connect with me
 
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/isiahzac#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/isiahzac#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/1s1ahzac#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/1s1ahzac#gh-dark-mode-only)
+* **LinkedIn:** [![LinkedIn](https://fontawesome.com/icons/brands/linkedin?style=solid)]([https://www.linkedin.com/in/isiahzac/])
+* **Instagram:** [![Instagram](https://fontawesome.com/icons/brands/instagram?style=solid)]([https://www.instagram.com/1s1ahzac/])
 
 
 ## Languages and Tools
