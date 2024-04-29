@@ -13,7 +13,7 @@ Embark on this journey with me and be part of my continued growth as I transform
 ## Language and Tools
 
 <img src="https://github.com/isiahzac/isiahzac/assets/130514737/725f4494-cd52-49d3-9305-0b171fc7db25" 
-     style="transform: scaleX(-1); min-width: 600px; max-width: 600px; width: 600px; float: right;" 
+     style="transform: scaleX(-2); min-width: 600px; max-width: 600px; width: 600px; align: right;" 
      alt="Computador">
 
 #### Main Stack:
