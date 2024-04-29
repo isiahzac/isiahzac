@@ -53,7 +53,8 @@ Embark on this journey with me and be part of my continued growth as I transform
 
 ## More stats
 
-![Customized Card](https://github.com/isiahzac/toquen-el-dom-sin-miedo-al-exito?username=isiahzac\&repo=toquen-el-dom-sin-miedo-al-exito\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=isiahzac\&repo=toquen-el-dom-sin-miedo-al-exito\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)(http://)]
+
 
 
 
