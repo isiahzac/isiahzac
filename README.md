@@ -10,7 +10,7 @@ Embark on this journey with me and be a part of my continuous growth as I transf
 
 
 
-### Connect with me
+## Connect with me
 
 <a href="https://www.linkedin.com/in/isiahzac/" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn style="padding-right:10px;">
@@ -18,9 +18,9 @@ Embark on this journey with me and be a part of my continuous growth as I transf
 <a href="https://www.instagram.com/1s1ahzac/" target="_blank">
   <img align="left" width="26px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="Instagram style="padding-right:10px;">
 </a>
-<!-- Línea en blanco para separar las secciones -->
+<br>
 
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
