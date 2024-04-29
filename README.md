@@ -12,7 +12,7 @@ Embark on this journey with me and be part of my continued growth as I transform
 
 ## Language and Tools
 
-<img src="https://github.com/isiahzac/isiahzac/assets/130514737/49a840b9-e447-405c-b08d-dbad05bf63d8" min-width="600px" max-width="600px" width="600px" align="right" alt="Computador">
+<img style="transform: rotate(-45deg);" src="https://github.com/isiahzac/isiahzac/assets/130514737/49a840b9-e45c-b08d-dbad05bf63d8" min-width="600px" max-width="600px" width="600px" align="right" alt="Computador">
 
 #### Main Stack:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
