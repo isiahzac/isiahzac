@@ -50,6 +50,7 @@ Embark on this journey with me and be part of my continued growth as I transform
 
 <details>
   <summary><h2>Isiah's journey</h2></summary>
+  
   My journey in the world of technology has been a fascinating combination of experiences and learning.
 
   A few years ago, while enjoying my time in Iceland, I had my first introduction to the world of programming thanks to someone I met. From that moment on, I was intrigued by what programming was all about    and the exciting things that could be created with that skill.
