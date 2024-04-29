@@ -1,12 +1,12 @@
-# ISIAH ZAC
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=ISIAH+ZAC;Full+Stack+Developer)](https://git.io/typing-svg)
 
 **`Code Artisan (Developer/Designer)`**
 
-Hey! I'm Isiah, a full-stack developer with an unwavering passion for blending technology with the artistry of design. I'm driven to craft digital experiences that are not only functional but also visually captivating.
+I'm Isiah, a full-stack developer with an unwavering passion for combining technology with the art of design. I'm driven to create digital experiences that are both captivating and functional.
 
-This GitHub space serves as a window into my creative journey, where you can witness my evolving approach to shaping impactful digital interactions.
+My GitHub profile is like a showcase of my creative journey, where you can witness my personal growth within the world of web development.
 
-Embark on this journey with me and be a part of my continuous growth as I transform ideas into unforgettable digital experiences.
+Embark on this journey with me and be part of my continued growth as I transform ideas into unforgettable digital experiences.
 
 
 ## Language and Tools
