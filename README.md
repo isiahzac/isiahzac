@@ -36,6 +36,6 @@ Embark on this journey with me and be a part of my continuous growth as I transf
 <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
 <br>
 
-### Stats
+## Stats
 
 ![Isiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=isiahzac&theme=dark&show_icons=true)
