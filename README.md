@@ -53,7 +53,8 @@ Embark on this journey with me and be part of my continued growth as I transform
 
 ## More stats
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isiahzac&theme=swift&show_icons=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isiahzac&repo=toquen-el-dom-sin-miedo-al-exito)](https://github.com/isiahzac/toquen-el-dom-sin-miedo-al-exito)
+
 
 <details>
   <summary><h2>Isiah's journey</h2></summary>
