@@ -61,5 +61,4 @@ Embark on this journey with me and be part of my continued growth as I transform
 
   Currently, I'm immersed in a cybersecurity course and also expanding my knowledge with another frontend course to improve my skills and be able to express my creativity the way I like.
 
-  Translated with DeepL.com (free version)
 </details>
