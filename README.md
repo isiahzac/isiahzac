@@ -50,6 +50,11 @@ Embark on this journey with me and be part of my continued growth as I transform
 
 ![Isiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=isiahzac&theme=swift&show_icons=true)
 
+
+## More stats
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isiahzac&theme=swift&show_icons=true)
+
 <details>
   <summary><h2>Isiah's journey</h2></summary>
   
