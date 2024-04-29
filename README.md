@@ -37,4 +37,4 @@ Embark on this journey with me and be a part of my continuous growth as I transf
 
 ## Stats
 
-![Isiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark_icons=true)
+![Isiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=isiahzac&theme=dark&show_icons=true)
