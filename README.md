@@ -11,7 +11,7 @@ Embark on this journey with me and be a part of my continuous growth as I transf
 
 ## Language and Tools
 
-<img src="![30](https://github.com/isiahzac/isiahzac/assets/130514737/49a840b9-e447-405c-b08d-dbad05bf63d8)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://github.com/isiahzac/isiahzac/assets/130514737/49a840b9-e447-405c-b08d-dbad05bf63d8" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 #### Main Stack:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
