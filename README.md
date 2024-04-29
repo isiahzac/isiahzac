@@ -11,7 +11,7 @@ Embark on this journey with me and be a part of my continuous growth as I transf
 
 ## Language and Tools
 
-<img src="![30](https://github.com/isiahzac/isiahzac/assets/130514737/90ee033d-c8c4-4b49-8e71-0f6e8be19854)
+<img src="https://png.pngtree.com/png-clipart/20210224/ourmid/pngtree-personal-computer-with-purple-screen-side-clip-art-png-image_2946745.jpg")
 " min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
