@@ -16,7 +16,7 @@ Embark on this journey with me and be a part of my continuous growth as I transf
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn style="padding-right:10px;">
 </a>
 <a href="https://www.instagram.com/1s1ahzac/" target="_blank">
-  <img align="left" width="26px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="Instagram style="padding-right:10px;">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram style="padding-right:10px;">
 </a>
 <br>
 
