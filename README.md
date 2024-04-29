@@ -11,7 +11,7 @@ Embark on this journey with me and be a part of my continuous growth as I transf
 
 ## Language and Tools
 
-<img src="https://png.pngtree.com/png-clipart/20210224/ourmid/pngtree-personal-computer-with-purple-screen-side-clip-art-png-image_2946745.jpg")
+<img src="https://png.pngtree.com/png-clipart/20210224/ourmid/pngtree-personal-computer-with-purple-screen-side-clip-art-png-image_2946745.jpg)
 " min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
