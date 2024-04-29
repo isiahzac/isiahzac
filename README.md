@@ -53,8 +53,7 @@ Embark on this journey with me and be part of my continued growth as I transform
 
 ## More stats
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=isiahzac\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=isiahzac\&repo=toquen-el-dom-sin-miedo-al-exito\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 
 <details>
