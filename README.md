@@ -9,17 +9,17 @@ This GitHub space serves as a window into my creative journey, where you can wit
 Embark on this journey with me and be a part of my continuous growth as I transform ideas into unforgettable digital experiences.
 
 
-## Connect with me
+### Connect with me
 
 <a href="https://www.linkedin.com/in/isiahzac/" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn style="padding-right:10px;">
 </a>
 <a href="https://www.instagram.com/1s1ahzac/" target="_blank">
-  <img align="left" width="26px" src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png" alt="Instagram style="padding-right:10px;">
+  <img align="left" width="26px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/github-7521512-7196736.png?f=webp" alt="Instagram style="padding-right:10px;">
 </a>
+<br>
 
-
-## Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
