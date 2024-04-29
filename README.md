@@ -48,14 +48,14 @@ Embark on this journey with me and be part of my continued growth as I transform
 
 ## Stats
 
-![Isiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=isiahzac&theme=swift&show_icons=true)
+![Isiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=isiahzac&theme=darkt&show_icons=true)
 
 
 ## More stats
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=isiahzac&repo=toquen-el-dom-sin-miedo-al-exito&theme=swift)](https://github.com/isiahzac/toquen-el-dom-sin-miedo-al-exito)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=isiahzac&repo=toquen-el-dom-sin-miedo-al-exito&theme=dark)](https://github.com/isiahzac/toquen-el-dom-sin-miedo-al-exito)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isiahzac&layout=compact&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isiahzac&layout=compact&theme=dark)
 
 
 <details>
