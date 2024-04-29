@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=35&left=true&vcenter=true&width=1000&lines=ISIAH+ZAC;FULL+STACK+DEVELOPER)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?color=0000&size=35&left=true&vcenter=true&width=1000&lines=ISIAH+ZAC;FULL+STACK+DEVELOPER" height="40" width="300">
 
 **`Code Artisan (Developer/Designer)`**
 
