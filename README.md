@@ -66,13 +66,12 @@ Embark on this journey with me and be part of my continued growth as I transform
   
   My journey in the world of technology has been a fascinating combination of experiences and learning.
 
-  A few years ago, while enjoying my time in Iceland, I had my first introduction to the world of programming thanks to someone I met. From that moment on, I was intrigued by what programming was all about    and the exciting things that could be created with that skill.
+  A few years ago, while enjoying my time in Iceland, I had my first introduction to the world of programming thanks to someone I met. From that moment on, I was intrigued by what programming was and the exciting things that could be created with that   skill.
 
-  Eventually, I met someone else who was really into programming and I got to see firsthand how amazing programming is and all the cool things you can do. That led me to decide what I wanted to do next.
+  Eventually, I met another person who was into programming and I got to see first hand how amazing programming is and all the cool things you can do. That led me to decide what I wanted to do next.
 
-  In 2023, I decided that I had to make a career change and threw myself into studying programming while working as a bartender. During this time, I completed courses in web layout and full stack 
-  development, which gave me a good foundation to get started in the world of web development.
+  A year later, in 2023, I decided that I had to change careers and I started studying programming in the mornings while working in the afternoons. During this time, I took courses in web layout and full stack development, which gave me a good           foundation to get started in the world of web development.
 
-  Currently, I'm immersed in a cybersecurity course and also expanding my knowledge with another frontend course to improve my skills and be able to express my creativity the way I like.
+  Currently, I continue to expand my knowledge with another frontend course to improve my skills and be able to express my creativity in the way I like the most.
 
 </details>
