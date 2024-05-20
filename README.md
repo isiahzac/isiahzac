@@ -30,7 +30,6 @@ Embark on this journey with me and be part of my continued growth as I transform
 #### Currently studying:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vue"/>](https://www.vuejs.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://go-skill-icons.vercel.app/api/icons?i=gsap"/>](https://www.gsap.com/)
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap)
 
 #### Tools:
 
@@ -39,6 +38,7 @@ Embark on this journey with me and be part of my continued growth as I transform
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vite"/>](https://vite.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://go-skill-icons.vercel.app/api/icons?i=jira"/>](https://www.atlassian.com/)
 
 <br>
 
