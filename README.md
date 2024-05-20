@@ -29,6 +29,7 @@ Embark on this journey with me and be part of my continued growth as I transform
 
 #### Currently studying:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vue"/>](https://www.vuejs.org/)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap)(https://www.gsap.com)
 
 #### Tools:
 
