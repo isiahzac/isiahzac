@@ -74,3 +74,5 @@ Embark on this journey with me and be part of my continued growth as I transform
   Currently, I continue to expand my knowledge with another frontend course to improve my skills and be able to express my creativity in the way I like the most.
 
 </details>
+
+![snake animation](https://github.com/<isiahzac>/<isiahzac>/blob/output/github-contribution-grid-snake2.svg)
