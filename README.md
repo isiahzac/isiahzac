@@ -75,4 +75,4 @@ Embark on this journey with me and be part of my continued growth as I transform
 
 </details>
 
-![snake animation](https://github.com/<isiahzac>/<isiahzac>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/{isiahzac}/{isiahzac}/output/github-contribution-grid-snake-dark.svg)
