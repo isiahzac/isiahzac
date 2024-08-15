@@ -57,7 +57,6 @@ Embark on this journey with me and be part of my continued growth as I transform
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=creativesDevs&repo=Askode&theme=dark)](https://github.com/creativesDevs/Askode)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isiahzac&layout=compact&theme=dark)
 
 
 <details>
