@@ -44,8 +44,8 @@ Embark on this journey with me and be part of my continued growth as I transform
 
 ## Connect with me
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=instagram"/>](https://instagram.com/1s1ahzac)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linkedin"/>](https://linkedin.com/in/isiahzac)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/>](https://instagram.com/1s1ahzac)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/>](https://linkedin.com/in/isiahzac)
 
 
 ## Stats
