@@ -7,7 +7,7 @@ I'm Isiah, a full-stack developer with an unwavering passion for combining techn
 
 My GitHub profile is like a showcase of my creative journey, where you can witness my personal growth within the world of web development.
 
-Embark on this journey with me and be part of my continued growth as I transform ideas into unforgettable digital experiences.
+Embark on this journey with me and be part of my continued growth as I transform ideas into digital experiences.
 
 
 ## Language and Tools
